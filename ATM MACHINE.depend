@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731568999 source:e:\c language\mid_term sem1\atm machine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
